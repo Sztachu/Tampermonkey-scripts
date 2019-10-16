@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         WykopAdRemover
 // @namespace    https://github.com/Sztachu/Tampermonkey-scripts
-// @version      0.1
+// @version      0.2
 // @description  wykop.pl - ad remover
 // @author       Sztachu
 // @match        https://www.wykop.pl/*
