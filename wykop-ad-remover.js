@@ -11,6 +11,8 @@
 (function() {
     'use strict';
 
-    document.querySelector('#itemsStream li.link.iC > div:not(.dC)').remove();
+    document.querySelector('#itemsStream li.link.iC > div:not(.dC)').remove();    
     document.querySelector('#dyingLinksBox').remove();
+    // prmoto article
+    document.querySelector('#itemsStream li.link.iC > div.empty-media').remove();
 })();
