@@ -1,6 +1,7 @@
 ! 2023-01-17 https://wykop.pl
-wykop.pl##.sidebar-2.sticky.pub-slot-wrapper
-wykop.pl##.sidebar-1.pub-slot-wrapper
 wykop.pl##.top.pub-slot-wrapper
+wykop.pl##.sidebar-1.pub-slot-wrapper
 wykop.pl##div.content section.pub-slot-wrapper
+wykop.pl##.sidebar-2.sticky.pub-slot-wrapper
+wykop.pl##:xpath(//section[contains(@data-label,"ad: ")])
 wykop.pl##aside.hit-slider
