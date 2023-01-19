@@ -4,4 +4,4 @@ wykop.pl##.sidebar-1.pub-slot-wrapper
 wykop.pl##div.content section.pub-slot-wrapper
 wykop.pl##.sidebar-2.sticky.pub-slot-wrapper
 wykop.pl##:xpath(//section[contains(@data-label,"ad: ")])
-wykop.pl##aside.hit-slider
+wykop.pl##aside.hits-slider
