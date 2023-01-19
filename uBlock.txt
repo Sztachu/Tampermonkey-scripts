@@ -3,3 +3,4 @@ wykop.pl##.sidebar-2.sticky.pub-slot-wrapper
 wykop.pl##.sidebar-1.pub-slot-wrapper
 wykop.pl##.top.pub-slot-wrapper
 wykop.pl##div.content section.pub-slot-wrapper
+wykop.pl##aside.hit-slider
